@@ -1,0 +1,27 @@
+{
+  "name": "glasgowtiger-inappbrowser",
+  "version": "0.1.0",
+  "description": "GlasgowTiger InAppBrowser Plugin",
+  "main": "plugin.xml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalevieino/gtiab.git"
+  },
+  "keywords": [
+    "glasgowtiger",
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser"
+  ],
+  "author": "kalevieino@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalevieino/gtiab/issues"
+  },
+  "homepage": "https://github.com/kalevieino/gtiab#readme"
+}
