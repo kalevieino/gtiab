@@ -1,6 +1,6 @@
 {
   "name": "glasgowtiger-inappbrowser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GlasgowTiger InAppBrowser Plugin",
   "main": "plugin.xml",
   "scripts": {
