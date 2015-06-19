@@ -22,7 +22,7 @@
            id="glasgowtiger-inappbrowser"
       version="0.1.0">
 
-    <name>InAppBrowser</name>
+    <name>GlasgowTiger InAppBrowser</name>
     <description>GlasgowTiger InAppBrowser Plugin</description>
     <license>Apache 2.0</license>
     <keywords>glasgowtiger, cordova,in,app,browser,inappbrowser</keywords>
